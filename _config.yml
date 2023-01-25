@@ -25,7 +25,7 @@ credits: '<p>Created with <a href="http://jekyllrb.com/" target="_blank">Jekyll<
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://asa-ssc.github.io'
+url: 'https://asa-ct.github.io'
 baseurl: '/minisymp2023'
 
 # This is for the editing function in _/includes/improve_content
@@ -38,7 +38,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://asa-ssc.github.io/minisymp2023/images/'
+urlimg: 'https://asa-ct.github.io/minisymp2023/images/'
 
 
 # Logo size is 600x80 pixels
