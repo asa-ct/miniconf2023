@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Statistical Computing in Action"
+title: "A mini-conference"
 header: no
 permalink: /index.html
 homepage: true

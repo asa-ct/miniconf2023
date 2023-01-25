@@ -1,6 +1,6 @@
-## ASA minisymposium pages
+## ASA CT mini conference pages
 
-+ Homepage: https://asa-ct.github.io/minisymp2023/.
++ Homepage: https://asa-ct.github.io/miniconf2023/.
 + The template is cloned from https://github.com/Phlow/feeling-responsive.
 + Documentations are avaliable at https://phlow.github.io/feeling-responsive/ 
   and `pages/documentation.md`.
