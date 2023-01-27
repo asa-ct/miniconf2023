@@ -1,22 +1,19 @@
 ---
 layout: page-fullwidth
-title: "A mini-conference"
+title: "ASA-CT Mini-Conference"
 header: no
 permalink: /index.html
 homepage: true
 ---
 
-+ **Date/Time:** TBA
-+ **Location:** TBA
++ **Date/Time:** Friday, April 14, 2023
++ **Location:** The conference will be hybrid, with in-person sessions held in Pfize Research Site at Groton, CT and all sessions broadcast live via Zoom.
 
-Organized by the [ASA Section on Statistical
-Computing](https://community.amstat.org/jointscsg-section/home), the
-mini-symposium aims to
+This annual event is organized by the [Connecticit Chapter of the Ameircan Statistical Association](https://community.amstat.org/connecticutchapter/home). We aim to 
 
-+ showcase the power/beauty of statistical computing to students;
-+ help practitioners sharpen their statistical computing skills; and
-+ foster community across different computing languages.
-
++ engage our current and perspective members ASA;
++ discuss emerging topics in statistics;
++ provide a platform to connect statisticians and data scientists in the State of Connecticut and beyond.
 
 ----
 
@@ -24,26 +21,17 @@ Examples for including images and PDFs.
 
 <div class="row-fluid">
 
-<h4><a href="https://en.wikipedia.org/wiki/Normal_distribution"
-target="_blank" rel="noopener">Normal distribution</a></h4>
+<h4><a href="/index.html"
+target="_blank" rel="noopener">Timeline / Important Dates</a></h4>
 
-<h4>From Wikipedia</h4>
++Online Registration for In-person Participation Deadline: TBD
++Online Registration for Virtual Participation Deadline: TBD
 
-<img class="imgfloat" src="docs/normal.png"/>
-
-The normal distribution is the only distribution whose 
-cumulants beyond the first two (i.e., other than the mean 
-and variance) are zero. It is also the continuous distribution 
-with the maximum entropy for a specified mean and variance.
-Geary has shown, assuming that the mean and variance are finite, 
-that the normal distribution is the only distribution where the 
-mean and variance calculated from a set of independent draws are 
-independent of each other.
 
 </div>
 
 ----
 
-[ggplot2 cheatsheet](docs/ggplot2-cheatsheet.pdf)
+[Event Flyer](docs/ggplot2-cheatsheet.pdf)
 
 ----
