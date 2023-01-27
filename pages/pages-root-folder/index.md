@@ -15,6 +15,8 @@ This annual event is organized by the [Connecticit Chapter of the Ameircan Stati
 + discuss emerging topics in statistics;
 + provide a platform to connect statisticians and data scientists in the State of Connecticut and beyond.
 
+The general scientific theme of this year's conference is on "information integration". This broadly refers to the merging and fusion of data or information from disparate sources to facilitate statistical inference and predictive modeling. Examples include leveraging historical data and real-world evidence, meta-analysis, transfer learning, federated learning, multi-modal data analysis, among others. We will have a diverse set of speakers to present related research topics and real-world applications. 
+
 ----
 <div class="row-fluid">
 
@@ -23,9 +25,9 @@ target="_blank" rel="noopener">Timeline/Important Dates</a></h4>
 
 </div>
 
-+Online Registration for In-person Participation Deadline: TBD;
++ Online Registration for In-person Participation Deadline: TBD;
 
-+Online Registration for Virtual Participation Deadline: TBD.
++ Online Registration for Virtual Participation Deadline: TBD.
 
 
 ----
