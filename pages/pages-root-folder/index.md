@@ -21,11 +21,12 @@ This annual event is organized by the [Connecticit Chapter of the Ameircan Stati
 <h4><a href="/miniconf2023/index.html"
 target="_blank" rel="noopener">Timeline/Important Dates</a></h4>
 
+</div>
+
 +Online Registration for In-person Participation Deadline: TBD;
+
 +Online Registration for Virtual Participation Deadline: TBD.
 
-
-</div>
 
 ----
 
