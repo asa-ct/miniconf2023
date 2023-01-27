@@ -21,11 +21,11 @@ Examples for including images and PDFs.
 
 <div class="row-fluid">
 
-<h4><a href="/index.html"
-target="_blank" rel="noopener">Timeline / Important Dates</a></h4>
+<h4><a href="/miniconf2023/index.html"
+target="_blank" rel="noopener">Timeline/Important Dates</a></h4>
 
-+Online Registration for In-person Participation Deadline: TBD
-+Online Registration for Virtual Participation Deadline: TBD
++Online Registration for In-person Participation Deadline: TBD;
++Online Registration for Virtual Participation Deadline: TBD.
 
 
 </div>
