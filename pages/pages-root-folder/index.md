@@ -16,9 +16,6 @@ This annual event is organized by the [Connecticit Chapter of the Ameircan Stati
 + provide a platform to connect statisticians and data scientists in the State of Connecticut and beyond.
 
 ----
-
-Examples for including images and PDFs.
-
 <div class="row-fluid">
 
 <h4><a href="/miniconf2023/index.html"
