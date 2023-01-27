@@ -16,13 +16,13 @@ permalink: /program/
   - 10:20 am -- 11:10 am: TBD
   - 11:10 am -- 12:00 pm: TBD
 
-+12:00 pm -– 1:00 pm: Lunch
++ 12:00 pm -– 1:00 pm: Lunch
 + 1:00 pm -- 3:30 pm: Scientific Session II:
   - 1:00 pm -- 1:50 pm: TBD	 
   - 1:50 pm -- 2:40 pm: TBD
   - 2:40 pm -- 3:30 pm: TBD
 
-+3:30 pm -– 3:45 pm: Break
++ 3:30 pm -– 3:45 pm: Break
 
-+3:45 pm -- 4:45 pm: Panel Discussion
-+4:45 pm -- 5:00 pm: Closing Remarks
++ 3:45 pm -- 4:45 pm: Panel Discussion
++ 4:45 pm -- 5:00 pm: Closing Remarks

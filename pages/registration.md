@@ -15,4 +15,4 @@ permalink: /registration/
     - $40 for non-section ASA members
     - $60 for non ASA members
 
-Registration will open in February.
+Registration is through [eventbrite](https://www.eventbrite.com) and will be open in February, 2023.
