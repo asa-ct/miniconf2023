@@ -6,10 +6,6 @@
   url: "/program/"
   side: left
 
-- title: Jamboree
-  url: "/jamboree/"
-  side: left
-
 - title: Registration
   url: "/registration/"
   side: left

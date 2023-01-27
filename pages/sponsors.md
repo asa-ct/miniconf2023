@@ -5,7 +5,9 @@ header: no
 permalink: /sponsors/
 ---
 
-+ [ASA Connecticut Chapter](https://community.amstat.org/connecticutchapter/home)
++ [Pfizer](https://www.pfizer.com)
++ [Department of Statistics, University of Connecticut](https://statistics.uconn.edu)
++ [New England Statistical Society](https://nestat.org)
 
 
 
