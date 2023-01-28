@@ -13,7 +13,7 @@ permalink: /program/
 + 9:15 am -- 9:30 am: Opening Remarks
 
 + 9:30 am -- 12:00 pm: Scientific Session II:
-  - 9:30 am -- 10:20 am: TBD
+  - 9:30 am -- 10:20 am: <a href="../speakers/#speaker1">TBD</a>
   - 10:20 am -- 11:10 am: TBD
   - 11:10 am -- 12:00 pm: TBD
 

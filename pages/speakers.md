@@ -5,7 +5,7 @@ header: no
 permalink: /speakers/
 ---
 
-<div style="display: flex; flex-direction: column;">
+<div id="speaker1" style="display: flex; flex-direction: column;">
 
 <h3>Title 1</h3>
 
@@ -35,7 +35,7 @@ Tincidunt eget nullam non nisi est sit.
 
 ----
 
-<div style="display: flex; flex-direction: column;">
+<div id="speaker2" style="display: flex; flex-direction: column;">
 
 <h3>Title 2</h3>
 
