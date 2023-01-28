@@ -15,7 +15,7 @@ permalink: /speakers/
 
 <h4> Instructor: Speaker 1</h4>
 
-<img class="imgfloat" src="docs/normal.png"/>
+<img class="imgfloat" src="../docs/normal.png"/>
 
 Speaker bio here.
 
