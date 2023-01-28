@@ -11,13 +11,15 @@ permalink: /speakers/
 
 <div class="row-fluid" id="speaker1">
 
-#### Title 1
+<h3>Title 1</h3>
 
-##### Instructor: Speaker 1
+<h4> Instructor: Speaker 1</h4>
+
 <img class="imgfloat" src="docs/normal.png"/>
+
 Speaker bio here.
 
-##### Abstrct
+<h4>Abstract</h4>
 
 Abstract here.
 

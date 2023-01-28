@@ -20,7 +20,7 @@ The general scientific theme of this year's conference is on "information integr
 ----
 <div class="row-fluid">
 
-<h4><a href="/miniconf2023/index.html">Timeline/Important Dates</a></h4>
+<h4>Timeline/Important Dates</h4>
 
 </div>
 
