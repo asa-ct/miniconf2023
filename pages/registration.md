@@ -10,7 +10,7 @@ permalink: /registration/
     - $25 for online participation
     - $50 for in-person participation 
 
-- non ASA member:
+- Non-ASA member:
     - $45 for online participation
     - $70 for in-person participation 
 
