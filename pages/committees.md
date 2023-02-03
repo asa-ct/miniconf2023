@@ -13,11 +13,11 @@ permalink: /committees/
 + [Guanyu (Tony) Tong](https://ysph.yale.edu/profile/guangyu-tong/), Yale University
 + [Yihua (Mary) Zhao](https://www.linkedin.com/in/yihua-zhao-889a1611/), Flatiron Health 
 
-#### Local Accommodation
+#### Local Organizer
 + [David Gruben](https://www.linkedin.com/in/david-gruben-b622374/), Pfizer
 
 
-### Finance \& Registration
+#### Finance & Registration
 + [Guanyu (Tony) Tong](https://ysph.yale.edu/profile/guangyu-tong/), Yale University
 
 
