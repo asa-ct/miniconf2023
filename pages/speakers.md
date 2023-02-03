@@ -70,27 +70,6 @@ TBA
 
 ----
 
-<div id="speaker3" style="display: flex; flex-direction: column;">
-
-<h3>TBD</h3>
-
-<h4>Tianyu Sun</h4>
-
-<p>
-<img class="imgfloat" src="../docs/normal.png"/>
-Dr. Tianyu Sun is RWE researcher and manager at Moderna.
-</p>
-
-
-<h4>Abstract</h4>
-
-TBA
-
-</div>
-
-
-----
-
 <div id="speaker4" style="display: flex; flex-direction: column;">
 
 <h3>TBD</h3>
