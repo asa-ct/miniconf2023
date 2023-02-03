@@ -12,20 +12,21 @@ permalink: /program/
 
 + 9:15 am -- 9:30 am: Opening Remarks
 
-+ 9:30 am -- 12:00 pm: Scientific Session II:
-  - 9:30 am -- 10:20 am: <a href="../speakers/#speaker1">TBD</a>
-  - 10:20 am -- 11:10 am: TBD
-  - 11:10 am -- 12:00 pm: TBD
++ 9:30 am -- 12:10 pm: Scientific Session I:
+  - 9:30 am -- 10:10 am: <a href="../speakers/#speaker1">Sreeram (Ram) Ramagopalan</a>
+  - 10:10 am -- 10:50 am: <a href="../speakers/#speaker2">Yahui Tian</a>   
+  - 10:50 am -- 11:30 am:  <a href="../speakers/#speaker3">Tianyu Sun</a>
+  - 11:30 am -- 12:10 pm:  <a href="../speakers/#speaker4">Shane Sacco</a>
 
-+ 12:00 pm -– 1:00 pm: Lunch
++ 12:10 pm -– 1:30 pm: Lunch
 
-+ 1:00 pm -- 3:30 pm: Scientific Session II:
-  - 1:00 pm -- 1:50 pm: TBD	 
-  - 1:50 pm -- 2:40 pm: TBD
-  - 2:40 pm -- 3:30 pm: TBD
++ 1:30 pm -- 3:30 pm: Scientific Session II:
+  - 1:30 pm -- 2:10 pm: <a href="../speakers/#speaker5">Haitao Chu</a> 
+  - 2:10 pm -- 2:50 pm: <a href="../speakers/#speaker6">Fei Wang</a>
+  - 2:50 pm -- 3:30 pm: <a href="../speakers/#speaker7">TBD</a>
 
 + 3:30 pm -- 3:45 pm: Break
 
-+ 3:45 pm -- 4:45 pm: Panel Discussion
++ 3:45 pm -- 4:15 pm: Discussion 
 
-+ 4:45 pm -- 5:00 pm: Closing Remarks
++ 4:15 pm -- 4:30 pm: Closing Remarks
