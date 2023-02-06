@@ -18,6 +18,7 @@ All times are in EST.
   - 10:10 am -- 10:50 am: <a href="../speakers/#speaker2">Yahui Tian</a>   
   - 10:50 am -- 11:30 am:  <a href="../speakers/#speaker3">Tianyu Sun</a>
   - 11:30 am -- 12:10 pm:  <a href="../speakers/#speaker4">Shane Sacco</a>
+
 +
 
 + 12:10 pm -– 1:30 pm: Lunch
@@ -28,6 +29,7 @@ All times are in EST.
   - 2:50 pm -- 3:30 pm: <a href="../speakers/#speaker7">Joshua Warren</a>
 
 +
+
 + 3:30 pm -- 3:45 pm: Break
 
 + 3:45 pm -- 4:15 pm: Discussion 
