@@ -23,5 +23,5 @@ The conference link and password will be sent to registrants before the event.
 
 #### 4. Follow the signs to the garage elevator down to the floor where the organizers will meet your at the door and walk you over to the auditorium.  
 
-#### If there is any problem regarding part, please call XXX-XXX-XXXX. 
+#### If there is any problem, please call XXX-XXX-XXXX. 
 
