@@ -13,7 +13,7 @@ permalink: /speakers/
 
 <p>
 <img class="imgfloat" src="../docs/ram.PNG"/>
-Sreeram (Ram) Ramagopalan is currently a Research Fellow at the London School of Economics and Political Science. He has previously led Real World Evidence teams at Roche and Bristol Myers Squibb, focussed on leveraging real-world evidence for Health Technology Assessment (HTA) to enable reimbursement of medicines. Ram holds a PhD in Epidemiology from the University of Oxford, as well as an MSc in Epidemiology from the London School of Hygiene and Tropical Medicine. He is an international expert in real world evidence with over 300 peer reviewed publications.
+Sreeram (Ram) Ramagopalan is currently a Research Fellow at the London School of Economics and Political Science. He has previously led Real World Evidence teams at Roche and Bristol Myers Squibb, focused on leveraging real-world evidence for Health Technology Assessment (HTA) to enable reimbursement of medicines. Ram holds a PhD in Epidemiology from the University of Oxford, as well as an MSc in Epidemiology from the London School of Hygiene and Tropical Medicine. He is an international expert in real world evidence with over 300 peer reviewed publications.
 
 </p>
 

@@ -7,11 +7,11 @@ homepage: true
 ---
 
 + **Date/Time:** Friday, April 14, 2023
-+ **Location:** The conference will be hybrid, with in-person sessions held in Pfize Research Site at Groton, CT and all sessions broadcast live via Zoom.
++ **Location:** The conference will be hybrid, with in-person sessions held at the Pfizer Research Site at Groton, CT and all sessions broadcast live via Zoom.
 
-This annual event is organized by the [Connecticit Chapter of the Ameircan Statistical Association](https://community.amstat.org/connecticutchapter/home) (ASA-CT). We aim to 
+This annual event is organized by the [Connecticut Chapter of the American Statistical Association](https://community.amstat.org/connecticutchapter/home) (ASA-CT). We aim to 
 
-+ engage our current and perspective ASA members;
++ engage our current and prospective ASA members;
 + discuss emerging topics in statistics and data science;
 + provide a platform to connect statisticians and data scientists in the State of Connecticut and beyond and to promote statistics and data science to the next generation. 
 
