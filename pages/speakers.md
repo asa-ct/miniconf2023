@@ -119,7 +119,7 @@ TBA
 <h4>Fei Wang</h4>
 
 <p>
-<img class="imgfloat" src="../docs/normal.png"/>
+<img class="imgfloat" src="../docs/FeiWang.jpeg"/>
 Fei Wang is currently an Associate Professor of Health Informatics in Department of Population Health Sciences, Weill Cornell Medicine, Cornell University. His major research interest is machine learning and its applications in health data science. He has published more than 300 papers in AI and medicine, which have received more than 23K citations Google Scholar. His H-index is 73. His papers have won 8 best paper awards at top international conferences on data mining and medical informatics. His team won the championship of the PTHrP results prediction challenge organized by the American Association of Clinical Chemistry in 2022, NIPS/Kaggle Challenge on Classification of Clinically Actionable Genetic Mutations in 2017 and Parkinson’s Progression Markers’ Initiative data challenge organized by Michael J. Fox Foundation in 2016. Dr. Wang is the recipient of the NSF CAREER Award in 2018, the inaugural research leadership award in IEEE International Conference on Health Informatics (ICHI) 2019. Dr. Wang is a Fellow of the American Medical Informatics Association (AMIA), a Fellow of the International Academy of Health Sciences and Informatics (IAHSI), a Fellow of the American College of Medical Informatics (ACMI), and a Distinguished Member of the Association for Computing Machinery (ACM). 
 </p>
 
