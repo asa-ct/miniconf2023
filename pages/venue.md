@@ -15,7 +15,7 @@ The conference link and password will be sent to registrants before the event.
 
 ### Parking Instructions
 
-##### 1. Drive to the north gate of Pfizer Groton office at 445 Eastern Point Road Groton CT 06340. 
+##### 1. Drive to the north gate of Pfizer Groton office at 445 Eastern Point Road, Groton, CT 06340. 
 
 ##### 2. Tell the guard that you are attending the ASA-CT Mini-Conference and get a visitor badge from the guard. 
 
