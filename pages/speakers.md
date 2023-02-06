@@ -136,11 +136,11 @@ TBA
 
 <h3>TBD</h3>
 
-<h4>TBD</h4>
+<h4>Joshua Warren</h4>
 
 <p>
-<img class="imgfloat" src="../docs/normal.png"/>
-TBA
+<img class="imgfloat" src="../docs/joshua.jpeg"/>
+Joshua Warren is an Associate Professor in the Department of Biostatistics at the Yale School of Public Health. He received his Ph.D. in statistics from North Carolina State University in 2011. Dr. Warren’s research focuses on statistical methods in public health with an emphasis on environmental health problems. Much of his work involves introducing spatial and spatiotemporal models in the Bayesian setting to learn more about associations between environmental exposures, such as air pollution, and various health outcomes including preterm birth, low birth weight, and congenital anomalies. He also has interest in developing and applying spatiotemporal models in collaborative settings such as epidemiology, geography, nutrition, and glaucoma research. His theoretical and methodological interests include multiple topics in spatial/spatiotemporal modeling and Bayesian nonparameterics.
 </p>
 
 <h4>Abstract</h4>

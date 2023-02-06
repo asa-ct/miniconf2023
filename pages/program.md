@@ -25,7 +25,7 @@ All times are in EST.
 + 1:30 pm -- 3:30 pm: Scientific Session II:
   - 1:30 pm -- 2:10 pm: <a href="../speakers/#speaker5">Haitao Chu</a> 
   - 2:10 pm -- 2:50 pm: <a href="../speakers/#speaker6">Fei Wang</a>
-  - 2:50 pm -- 3:30 pm: <a href="../speakers/#speaker7">TBD</a>
+  - 2:50 pm -- 3:30 pm: <a href="../speakers/#speaker7">Joshua Warren</a>
 
 
 + 3:30 pm -- 3:45 pm: Break
