@@ -94,19 +94,19 @@ TBA
 
 <div id="speaker5" style="display: flex; flex-direction: column;">
 
-<h3>TBD</h3>
+<h3>Indirect Treatment Comparisons: When Are They Needed and How Do They Work?</h3>
 
 <h4>Haitao Chu</h4>
 
 <p>
-<img class="imgfloat" src="../docs/normal.png"/>
-Dr. Haitao Chu is a Senior Director at Pfizer. 
+<img class="imgfloat" src="../docs/HaitaoChu.jfif"/>
+Dr. Haitao Chu is a Senior Director in the Statistical Research and Data Science Center at Pfizer Inc. Before he joined Pfizer in April 2022, he was a tenured full Professor of Biostatistics in the University of Minnesota Twin Cities since 2017. He has published over 240 articles and is a Fellow of American Statistical Association. He currently serves as an Associate Editor for the Journal of the American Statistical Association and the American Journal of Epidemiology.
 </p>
 
 
 <h4>Abstract</h4>
 
-TBA
+In many markets, gaining approval by national reimbursement, pricing, or health technology assessment agencies is critical to the commercial success of a new product launch. In the absence of direct evidence from head-to-head RCTs, private and national payers often expect to see evidence from indirect treatment comparisons including Bucher’s method, network meta-analysis (NMA) or population adjusted indirect comparison (PAIC) to demonstrate the clinical value of the new technology. In this talk, I will provide an overview on indirect treatment comparisons focusing on when are they needed and how do they work? In addition, we will discuss the assumptions, advantages, and disadvantages of each approach. In practice, it is important to consider multiple approaches as sensitivity analyses and to provide totality of evidence as indirect treatment comparison is at high risk of bias no matter which approach is chosen. 
 
 </div>
 
