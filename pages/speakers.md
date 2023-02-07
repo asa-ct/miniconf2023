@@ -56,7 +56,9 @@ There has been an increasing interest in using real-world evidence (RWE) to supp
 
 <p>
 <img class="imgfloat" src="../docs/Tianyu.jpg"/>
-Dr. Tianyu Sun is Manger, Real-World Evidence & Analytics, Biostatistics and Programming at Moderna. He is partnering with cross-functional groups to support the development and execution of Real-World Data (RWD) based studies to enable disease insights and to enhance clinical development. Prior to joining Moderna, Tianyu had experience of different RWD sources, such as Medicare fee-for-service, Optum, RI Medicaid, etc. He also had previously been working as SAS programmer for clinical trial data analysis. Full list of publications: [link](https://scholar.google.com/citations?user=fB8A030AAAAJ&hl=en&oi=sra); ORCID: [link](https://orcid.org/0000-0002-3996-1381).
+Dr. Tianyu Sun is Manger, Real-World Evidence & Analytics, Biostatistics and Programming at Moderna. He is partnering with cross-functional groups to support the development and execution of Real-World Data (RWD) based studies to enable disease insights and to enhance clinical development. Prior to joining Moderna, Tianyu had experience of different RWD sources, such as Medicare fee-for-service, Optum, RI Medicaid, etc. He also had previously been working as SAS programmer for clinical trial data analysis. Full list of publications: 
+<a href="https://scholar.google.com/citations?user=fB8A030AAAAJ&hl=en&oi=sra" target="_blank">link</a>; 
+ORCID: <a href="https://orcid.org/0000-0002-3996-1381" target="_blank">link</a>.
 </p>
 
 
