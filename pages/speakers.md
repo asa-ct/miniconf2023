@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Speakers"
+title: "Speakers & Presentations"
 header: no
 permalink: /speakers/
 ---

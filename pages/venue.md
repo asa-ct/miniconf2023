@@ -5,9 +5,7 @@ header: no
 permalink: /venue/
 ---
 
-The conference will be hybrid, with in-person sessions held in [Pfizer Research Site at Groton, CT](https://www.pfizer.com/groton-connecticut) and all sessions broadcast live via Zoom.
-
-The conference link and password will be sent to registrants before the event.
+The conference will be hybrid, with in-person sessions held in [Pfizer Research Site at Groton, CT](https://www.pfizer.com/groton-connecticut) and all sessions broadcast live via Zoom. The zoom link and password for virtual attendance will be sent to registrants before the event.
 
 
 
@@ -15,13 +13,13 @@ The conference link and password will be sent to registrants before the event.
 
 ### Parking Instructions
 
-##### 1. Drive to the north gate of Pfizer Groton office at 445 Eastern Point Road, Groton, CT 06340. 
+1. Drive to the north gate of Pfizer Groton office at 445 Eastern Point Road, Groton, CT 06340. 
 
-##### 2. Tell the guard that you are attending the ASA-CT Mini-Conference and get a visitor badge from the guard. 
+2. Tell the guard that you are attending the ASA-CT Mini-Conference and get a visitor badge from the guard. 
 
-##### 3. Drive through the gate and park at the top of the parking garage that’s about half a block from that gate.  
+3. Drive through the gate and park at the top of the parking garage that’s about half a block from that gate.  
 
-##### 4. Follow the signs to the garage elevator down to the floor where the organizers will meet your at the door and walk you over to the auditorium.  
+4. Follow the signs to the garage elevator down to the floor where the organizers will meet your at the door and walk you over to the auditorium.  
 
-#### If there is any problem, please call XXX-XXX-XXXX. 
+##### If there is any problem, please call XXX-XXX-XXXX. 
 
