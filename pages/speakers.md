@@ -7,7 +7,7 @@ permalink: /speakers/
 
 <div id="speaker1" style="display: flex; flex-direction: column;">
 
-<h3>The use of real-world evidence (RWE) in health technology assessment (HTA)-- opportunities and challenges</h3>
+<h3>The Use of Real-World Evidence (RWE) in Health Technology Assessment (HTA) -- Opportunities and Challenges</h3>
 
 <h4>Sreeram (Ram) Ramagopalan </h4>
 
@@ -28,19 +28,19 @@ TBA.
 
 <div id="speaker2" style="display: flex; flex-direction: column;">
 
-<h3>TBD</h3>
+<h3>Introduction to Real-World Evidence and Artificial Intelligence in Healthcare and Drug Development</h3>
 
 <h4>Yahui Tian</h4>
 
 <p>
 <img class="imgfloat" src="../docs/Yahui.jpeg"/>
-Dr. Yahui Tian is AD, Principal Therapeutic Area and Methodology Statistician at Boehringer Ingelheim.
+Dr. Yahui Tian is currently working as a principal statistician and real-world evidence statistics advisor in the department of Biostatistics and Data Sciences in Boehringer Ingelheim. Dr. Tian gets her Ph.D. degree in Statistics from University of Texas at Dallas. Her current work mainly focus on innovative workstreams that leverage real-world data and advanced analytics (e.g., data mining and machine learning) to facilitate clinical drug development and other advancements in the life cycle of drug development.
 </p>
 
 
 <h4>Abstract</h4>
 
-TBA
+There has been an increasing interest in using real-world evidence (RWE) to support healthcare decision-making, drug development and regulatory submission in recent years. RWE provides useful insights to disease understanding, comparative effectiveness, treatment safety, data-driven clinical trial design and health economics. However, due to the high dimensionality, heterogeneity and sometimes sparsity of real-world data (RWD),  representation and modeling is challenging. Artificial intelligence (AI) is capable of handling these difficulties and extracting meaningful patterns from complex structured and unstructured data. AI includes a collection of machine learning and deep learning algorithms which have shown promising value and impressive results across a variety of disease areas. This presentation introduces general concepts and regulatory guidelines of RWE and AI in healthcare and drug development, detailed use cases are discussed to demonstrate design process and contribution to medical discovery. RWE and AI are transforming the way decisions are made in healthcare, facilitating evidence generation in the value chain of medical research and drug development.
 
 </div>
 
