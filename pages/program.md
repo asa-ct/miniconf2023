@@ -19,18 +19,12 @@ All times are in EDT.
   - 10:50 am -- 11:30 am:  <a href="../speakers/#speaker3">Tianyu Sun</a>
   - 11:30 am -- 12:10 pm:  <a href="../speakers/#speaker4">Shane Sacco</a>
 
-<br>
-<br>
-
 + 12:10 pm -– 1:30 pm: Lunch
 
 + 1:30 pm -- 3:30 pm: Scientific Session II:
   - 1:30 pm -- 2:10 pm: <a href="../speakers/#speaker5">Haitao Chu</a> 
   - 2:10 pm -- 2:50 pm: <a href="../speakers/#speaker6">Fei Wang</a>
   - 2:50 pm -- 3:30 pm: <a href="../speakers/#speaker7">Joshua Warren</a>
-
-<br>
-<br>
 
 + 3:30 pm -- 3:45 pm: Break
 
