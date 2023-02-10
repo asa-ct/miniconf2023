@@ -64,7 +64,7 @@ ORCID: <a href="https://orcid.org/0000-0002-3996-1381" target="_blank">link</a>.
 
 <h4>Abstract</h4>
 
-TBA
+The real-world data (RWD), such as claims and electronic health records (EHRs), has been widely used for observational studies to generate real-world evidence (RWE) of effectiveness and safety profile for treatments and interventions. However, each data source by themselves has limitations, even data collected by clinical trials. For instance, administrative claims data usually lacks the granularity of lab test results, meanwhile clinical trials are sometime been criticized for a short follow-up period to observe long-term outcomes or adverse events. Conducting linkage (tokenization, when deterministic linkage is not feasible) across different data sources would be able to enrich data elements and to extend the longitudinal data with minimum interference with study subjects. There are several published studies provided insights into linking different data sources and assessing the validity of outcomes obtained from RWD. The results open a door to enrich a single source data and to judicate endpoints collected by clinical trial by conducting linkage across different databases. Furthermore, it demonstrated a chance of extending clinical trial follow-up by linking with RWD for certain endpoints.
 
 </div>
 
@@ -74,20 +74,21 @@ TBA
 
 <div id="speaker4" style="display: flex; flex-direction: column;">
 
-<h3>TBD</h3>
+<h3>Improving Prediction of Adolescent Suicide Attempts with Electronic Health Records by Leveraging External Data Sources</h3>
 
 <h4>Shane Sacco</h4>
 
 <p>
 <img class="imgfloat" src="../docs/shane.jpg"/>
-Dr. Shane Sacco is a Research Associate at the Department of Statistics at the University of Connecticut and at the Center for Population Health at the University of Connecticut Health Center. 
+
+Dr. Shane J Sacco is a Postdoctoral Research Associate in the Department of Statistics at the University of Connecticut and a member at the Center for Population Health at the University of Connecticut Health Center. He received his PhD in Health Promotion Science at the University of Connecticut, with his dissertation focusing upon applied methods to improve nonlinear interaction testing in the social sciences. His current research aims to improve suicide risk prediction using transfer-learning techniques, clinical decision-making pipelines, and feature and outcome engineering.
 
 </p>
 
 
 <h4>Abstract</h4>
 
-TBA
+Suicide among adolescents and young adults has risen in the US over the last decade and has driven mandates for risk identification methods such as risk algorithms using electronic health records. However, published risk algorithms heretofore only identify around half of attempts on average with 90% specificity. With this, efforts to improve algorithms are still critical. One potential method to improve existing algorithms is to transfer features important to risk that are not found in analyzed electronic health records by means of data fusion, a principle within transfer learning. In the present talk, I will discuss an established framework to generate additional features for prediction by matching patients with those found in external sources, as well as, case studies to exhibit how and what additional information may be leveraged to improve prediction of suicide attempts in adolescent populations.
 
 </div>
 
