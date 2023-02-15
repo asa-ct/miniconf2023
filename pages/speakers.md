@@ -20,7 +20,7 @@ Sreeram (Ram) Ramagopalan is currently a Research Fellow at the London School of
 
 <h4>Abstract</h4>
 
-TBA.
+Health Technology Assessment (HTA) is used as a tool to support evidence-based decision-making and to ensure scarce resources are efficiently spent. Real-world evidence (RWE) is used for different purposes in HTA, most importantly to estimate prevalence and/or incidence or to extrapolate short-term effectiveness beyond trial duration, but also to evaluate safety, resource use, costs or quality of life. Additionally, RWE is used to evaluate comparative effectiveness of MDs to support HTA. Observational studies of comparative effectiveness are, however, prone to several types of bias (e.g., selection bias, information bias, recall bias, and detection bias). For example, when observational studies fail to take into account confounding and effect modifying variables in the design or analysis, this may result in biased estimates of the effectiveness and cost-effectiveness of alternative health care interventions, which may lead to spending scarce resources sub-optimally. As a result, HTA agencies are reluctant to accept RWE as a measure of treatment effectiveness. This talk aims to cover methods development to address issues of bias and confounding for the wider acceptance of RWE by HTA agencies.  
 
 </div>
 
