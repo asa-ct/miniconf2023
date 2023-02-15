@@ -24,7 +24,7 @@ The general scientific theme of this year's conference is on "information integr
 
 </div>
 
-+ Registration for In-person Participation Deadline: April 7, 2023;
++ Registration for In-person Participation Deadline: April 4, 2023;
 
 + Registration for Virtual Participation Deadline: April 13, 2023.
 
