@@ -117,7 +117,7 @@ In many markets, gaining approval by national reimbursement, pricing, or health 
 
 <div id="speaker6" style="display: flex; flex-direction: column;">
 
-<h3>TBD</h3>
+<h3>Disentangling the Clinical Complexity of Heterogeneous Diseases through Subphenotyping on Large Scale Electronic Health Records with Machine Learning </h3>
 
 <h4>Fei Wang</h4>
 
@@ -128,7 +128,7 @@ Fei Wang is currently an Associate Professor of Health Informatics in Department
 
 <h4>Abstract</h4>
 
-TBA
+Diseases such as COVID-19 are highly complex in patients’ clinical manifestations. Disentanglement of such clinical complexity into subpehnotypes can reveal the hidden patterns of the disease and inform stratified medicine. Electronic Health Records (EHRs) are important sources containing rich clinical information but there are many inherent challenges for analyzing them, such as sparsity, high-dimensionality and temporality. In this talk, taking COVID-19 as an example, I will introduce our research on deriving disease subphenotypes from large scale EHR repositories using machine learning approaches, point out the challenges and future research directions. 
 
 </div>
 
