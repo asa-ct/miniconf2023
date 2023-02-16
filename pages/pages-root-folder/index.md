@@ -31,6 +31,6 @@ The general scientific theme of this year's conference is on "information integr
 
 ----
 
-[Event Flyer](docs/ggplot2-cheatsheet.pdf)
+[Event Flyer](docs/2023_ASA_CT_MiniConference_Flyer.pdf)
 
 ----
