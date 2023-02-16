@@ -26,7 +26,7 @@ All times are in EDT.
   - 1:30 pm -- 2:10 pm: <a href="../speakers/#speaker5">Haitao Chu</a> 
   - 2:10 pm -- 2:50 pm: <a href="../speakers/#speaker6">Fei Wang</a>
   - 2:50 pm -- 3:00 pm: Break
-  - 3:00 pm -- 3:40 pm: <a href="../speakers/#speaker7">Joshua Warren</a>
+  - 3:00 pm -- 3:40 pm: <a href="../speakers/#speaker7">Joshua L. Warren</a>
 
 + 3:40 pm -- 4:15 pm: Discussion
 

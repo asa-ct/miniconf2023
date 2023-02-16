@@ -137,9 +137,9 @@ Diseases such as COVID-19 are highly complex in patients’ clinical manifestati
 
 <div id="speaker7" style="display: flex; flex-direction: column;">
 
-<h3>TBD</h3>
+<h3>Meta-regression case studies in infectious disease epidemiology</h3>
 
-<h4>Joshua Warren</h4>
+<h4>Joshua L. Warren</h4>
 
 <p>
 <img class="imgfloat" src="../docs/joshua.jpeg"/>
@@ -148,6 +148,6 @@ Joshua Warren is an Associate Professor in the Department of Biostatistics at th
 
 <h4>Abstract</h4>
 
-TBA
+Meta-analyses and meta-regressions are becomingly increasingly common in infectious disease epidemiology for interpolating important measures across different spatial locations and time points. However, the standard methods of analysis often need to be extended to accommodate unique features of the collected data and to more directly answer primary hypotheses posed by the research group. In this talk, I discuss two recent examples where new statistical methodology within the hierarchical Bayesian framework was developed to (i) estimate the burden of tuberculosis in incarcerated persons and (ii) quantify the efficacy and effectiveness of a vaccine.      
 
 </div>
