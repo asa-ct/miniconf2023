@@ -10,7 +10,7 @@ permalink: /committees/
 + [Kun Chen](https://kun-chen.uconn.edu) (Chair), University of Connecticut
 + [Birol Emir](https://www.linkedin.com/in/drbirolemir/), Pfizer
 + [Zhichao Sun](https://www.linkedin.com/in/zhichao-sun-ab9a3690/), Boehringer Ingelheim
-+ [Guanyu (Tony) Tong](https://ysph.yale.edu/profile/guangyu-tong/), Yale University
++ [Guangyu (Tony) Tong](https://ysph.yale.edu/profile/guangyu-tong/), Yale University
 + [Yihua (Mary) Zhao](https://www.linkedin.com/in/yihua-zhao-889a1611/), Flatiron Health 
 
 #### Local Organizer
