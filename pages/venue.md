@@ -18,6 +18,10 @@ Exit 87 is Connecticut Route 349.  Follow Route 349 through Groton to Pfizer. 
 
 <img src="https://asa-ct.github.io/miniconf2023/docs/1)-pinkmap.PNG"></img>
 
+
+<img src="https://asa-ct.github.io/miniconf2023/docs/2)-NorthGate.PNG" height=300 width=500></img>
+
+
 <b>Parking</b><br>
 Drive onto the Pfizer entrance road, getting in the right lane.  The Pfizer security guard in the right-lane booth ("North Gate 1") will have a Visitor Badge for you.  Stop and tell the guard your name, that you are a visitor, here to attend the ASA Mini Conference, and show your ID.  (Note that f you arrive after 9:30am and there is a traffic cone in front of the right-lane booth indicating it’s closed, please use the left-lane booth.)
 
