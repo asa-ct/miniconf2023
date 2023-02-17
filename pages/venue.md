@@ -5,9 +5,10 @@ header: no
 permalink: /venue/
 ---
 
-The conference will be hybrid, with in-person sessions held in [Pfizer Research Site at Groton, CT](https://www.pfizer.com/groton-connecticut). <span style="background-color:#FFFF00;">You must show a valid photo ID (e.g., a driver license) to be admitted onto the Pfizer site.</span> 
+The conference will be hybrid, with in-person sessions held in [Pfizer Research Site](https://www.pfizer.com/groton-connecticut) in Groton CT.
 
 All sessions will be broadcast live via Zoom. The zoom link and password for virtual attendance will be sent to registrants before the event.
+<span style="background-color:#F8F7B1;">You must show a valid photo ID (e.g., a driver license) to be admitted onto the Pfizer site.</span> 
 
 ### Directions to Pfizer and Parking
 
@@ -25,6 +26,8 @@ After the left turn onto Eastern Point Road, the next traffic light will be Pfiz
 </td>
 <td valign="center">
 <img src="https://asa-ct.github.io/miniconf2023/docs/2)-NorthGate.PNG" width=500 height=300>
+<p><i>If you are planning to use a GPS app, the address is 445 Eastern Point RD Groton.</i> 8WPF+Q9 Groton</p>  
+<p><i>If you use a GPS app, please check its directions against these directions before starting, because sometimes GPS will misdirect people when trying to get them to Pfizer's Groton site.</i></p>
 </td>
 </tr>
 </table>
