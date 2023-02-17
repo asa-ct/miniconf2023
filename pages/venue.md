@@ -19,9 +19,9 @@ Exit 87 is Connecticut Route 349.  Follow Route 349 through Groton to Pfizer. 
 After the left turn onto Eastern Point Road, the next traffic light will be Pfizer.  The entrance to Pfizer will be directly in front of you. 
 
 <table>
-<tr><td width="55%">
-<img src="https://asa-ct.github.io/miniconf2023/docs/1)-pinkmap.PNG"  width=540 height=560><p><i>Click on the map to enlarge it.</i></p> 
-</td><td>
+<tr><td width="55%" valign="center">
+<a href="https://asa-ct.github.io/miniconf2023/docs/1)-pinkmap.PNG" _new  style="text-decoration:none" target="new"><img src="https://asa-ct.github.io/miniconf2023/docs/1)-pinkmap.PNG"  width=540 height=560><p><i>Click on the map to enlarge it.</i></p> 
+</td><td valign="center">
 <img src="https://asa-ct.github.io/miniconf2023/docs/2)-NorthGate.PNG" width=500 height=300>
   </td></tr></table>
 
