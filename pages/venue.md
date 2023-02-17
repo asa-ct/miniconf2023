@@ -5,8 +5,7 @@ header: no
 permalink: /venue/
 ---
 
-### Venue
-The conference will be hybrid, with in-person sessions held in [Pfizer Research Site](https://www.pfizer.com/groton-connecticut) in Groton CT.
+1715 The conference will be hybrid, with in-person sessions held in [Pfizer Research Site](https://www.pfizer.com/groton-connecticut) in Groton CT.
 
 <ul>
 <li>All sessions will be broadcast live via Zoom. The zoom link and password for virtual attendance will be sent to registrants before the event.
