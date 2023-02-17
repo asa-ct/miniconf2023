@@ -12,11 +12,11 @@ The conference will be hybrid, with in-person sessions held in [Pfizer Research 
 <li>If you are attending in-person, <span style="background-color:#F8F7B1;">you must show a valid photo ID (e.g., a driver license) to be admitted onto the Pfizer site.</span></li>
 </ul>
 
-<br><br>
+<br>
 
-# Directions to Pfizer and Parking
+## Directions to Pfizer and Parking
 
-## Directions
+### Directions
 Pfizer is off of Exit 87 on Interstate 95 in Groton CT, just under 3 miles from there.  (Note that if you are heading southbound, Exit 87 is a <i>left-lane</i> exit.  Northbound, it is a right-lane exit.)
 
 Exit 87 is Connecticut Route 349.  Follow Route 349 through Groton to Pfizer.  See the map below: Route 349 starts as Clarence B Sharp Hwy, then at the second traffic light turns right onto Rainville Ave, and afterwards turns left onto Eastern Point Road at the second traffic light.  
@@ -37,9 +37,9 @@ After the left turn onto Eastern Point Road, the next traffic light will be Pfiz
 </td>
 </tr>
 </table>
-<br><br>
+<br>
 
-## Parking
+### Parking
 Drive onto the Pfizer entrance road, getting in the right lane; see photo above.  The Pfizer security guard in the right-lane booth ("North Gate 1") will have a Visitor Badge for you.  Stop and tell the guard your name, that you are a visitor, here to attend the ASA Mini Conference, and show your ID.  
 
 (Note that if you arrive after 9:30am and there is a traffic cone in front of the right-lane booth indicating it’s closed, please use the left-lane booth.)
