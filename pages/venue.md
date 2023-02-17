@@ -5,10 +5,15 @@ header: no
 permalink: /venue/
 ---
 
-1710 The conference will be hybrid, with in-person sessions held in [Pfizer Research Site](https://www.pfizer.com/groton-connecticut) in Groton CT.
+### Venue
+The conference will be hybrid, with in-person sessions held in [Pfizer Research Site](https://www.pfizer.com/groton-connecticut) in Groton CT.
 
-All sessions will be broadcast live via Zoom. The zoom link and password for virtual attendance will be sent to registrants before the event.
-If you are attending in-person, <span style="background-color:#F8F7B1;">you must show a valid photo ID (e.g., a driver license) to be admitted onto the Pfizer site.</span> 
+<ul>
+<li>All sessions will be broadcast live via Zoom. The zoom link and password for virtual attendance will be sent to registrants before the event.
+<li>If you are attending in-person, <span style="background-color:#F8F7B1;">you must show a valid photo ID (e.g., a driver license) to be admitted onto the Pfizer site.</span>
+</ul>
+
+<br><br>
 
 ### Directions to Pfizer and Parking
 
