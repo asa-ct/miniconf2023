@@ -22,7 +22,7 @@ After the left turn onto Eastern Point Road, the next traffic light will be Pfiz
 <table>
 <tr>
 <td width="55%">
-<a href="https://asa-ct.github.io/miniconf2023/docs/1)-pinkmap.PNG" _new  style="text-decoration:none;" target="_blank">
+<a href="https://asa-ct.github.io/miniconf2023/docs/1)-pinkmap.PNG" target="_blank" style="text-decoration:none;">
 <img src="https://asa-ct.github.io/miniconf2023/docs/1)-pinkmap.PNG"  width=540 height=560><p><i>Click on the map to enlarge it.</i></p> 
 </td>
 <td>
