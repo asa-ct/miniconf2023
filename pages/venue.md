@@ -5,7 +5,7 @@ header: no
 permalink: /venue/
 ---
 
-1652 The conference will be hybrid, with in-person sessions held in [Pfizer Research Site](https://www.pfizer.com/groton-connecticut) in Groton CT.
+1655 The conference will be hybrid, with in-person sessions held in [Pfizer Research Site](https://www.pfizer.com/groton-connecticut) in Groton CT.
 
 All sessions will be broadcast live via Zoom. The zoom link and password for virtual attendance will be sent to registrants before the event.
 If you are attending in-person, <span style="background-color:#F8F7B1;">you must show a valid photo ID (e.g., a driver license) to be admitted onto the Pfizer site.</span> 
@@ -50,7 +50,8 @@ The guard will direct you to the parking garage, about 800 feet ahead, on your r
 <tr>
 <td width="55%">
 <a href="https://asa-ct.github.io/miniconf2023/docs/1)-pinkmap.PNG" target="_blank" style="text-decoration:none;">
-<img src="https://asa-ct.github.io/miniconf2023/docs/1)-pinkmap.PNG"  width=540 height=560><p><i>Click on the map to enlarge it.</i></p> 
+<img src="https://asa-ct.github.io/miniconf2023/docs/1)-pinkmap.PNG"  width=540 height=560><p><i>Click on the map to enlarge it.</i></p>
+</a>
 </td>
 <td>
 <img src="https://asa-ct.github.io/miniconf2023/docs/2)-NorthGate.PNG" width=500 height=300>
