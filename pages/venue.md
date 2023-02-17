@@ -16,7 +16,7 @@ Pfizer is off of Exit 87 on Interstate 95 in Groton, just under 3 miles from the
 
 Exit 87 is Connecticut Route 349.  Follow Route 349 through Groton to Pfizer.  See the map below: Route 349 starts as Clarence B Sharp Hwy, then at the second traffic light turns right onto Rainville Ave, and afterwards turns left onto Eastern Point Road at the second traffic light.  After the left turn onto Eastern Point Road, the next traffic light will be Pfizer.  The entrance to Pfizer will be directly in front of you. 
 
-<img src="https://asa-ct.github.io/miniconf2023/docs/1)-pinkmap.PNG">
+<img src="https://asa-ct.github.io/miniconf2023/docs/1)-pinkmap.PNG"></img>
 
 <b>Parking</b><br>
 Drive onto the Pfizer entrance road, getting in the right lane.  The Pfizer security guard in the right-lane booth ("North Gate 1") will have a Visitor Badge for you.  Stop and tell the guard your name, that you are a visitor, here to attend the ASA Mini Conference, and show your ID.  (Note that f you arrive after 9:30am and there is a traffic cone in front of the right-lane booth indicating it’s closed, please use the left-lane booth.)
