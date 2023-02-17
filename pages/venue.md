@@ -5,7 +5,7 @@ header: no
 permalink: /venue/
 ---
 
-1655 The conference will be hybrid, with in-person sessions held in [Pfizer Research Site](https://www.pfizer.com/groton-connecticut) in Groton CT.
+1700 The conference will be hybrid, with in-person sessions held in [Pfizer Research Site](https://www.pfizer.com/groton-connecticut) in Groton CT.
 
 All sessions will be broadcast live via Zoom. The zoom link and password for virtual attendance will be sent to registrants before the event.
 If you are attending in-person, <span style="background-color:#F8F7B1;">you must show a valid photo ID (e.g., a driver license) to be admitted onto the Pfizer site.</span> 
@@ -21,17 +21,18 @@ After the left turn onto Eastern Point Road, the next traffic light will be Pfiz
 
 <table>
 <tr>
-<td width="55%">
-<img src="https://asa-ct.github.io/miniconf2023/docs/1)-pinkmap.PNG"  width=540 height=560> 
+<td width="55%" valign="center">
+<a href="https://asa-ct.github.io/miniconf2023/docs/1)-pinkmap.PNG" target="_blank" style="text-decoration:none;">
+<img src="https://asa-ct.github.io/miniconf2023/docs/1)-pinkmap.PNG"  width=540 height=560><p><i>Click on the map to enlarge it.</i></p>
+</a>
 </td>
-<td>
+<td valign="center">
 <img src="https://asa-ct.github.io/miniconf2023/docs/2)-NorthGate.PNG" width=500 height=300>
 <p><i>If you are planning to use a GPS app, the address is 445 Eastern Point RD Groton.</i> 8WPF+Q9 Groton</p>  
 <p><i>If you use a GPS app, please check its directions against these directions before starting, because sometimes GPS will misdirect people when trying to get them to Pfizer's Groton site.</i></p>
 </td>
 </tr>
 </table>
-
 
 <b>Parking</b><br>
 Drive onto the Pfizer entrance road, getting in the right lane; see photo above.  The Pfizer security guard in the right-lane booth ("North Gate 1") will have a Visitor Badge for you.  Stop and tell the guard your name, that you are a visitor, here to attend the ASA Mini Conference, and show your ID.  
@@ -46,18 +47,5 @@ The guard will direct you to the parking garage, about 800 feet ahead, on your r
 
 
 
-<table>
-<tr>
-<td width="55%">
-<a href="https://asa-ct.github.io/miniconf2023/docs/1)-pinkmap.PNG" target="_blank" style="text-decoration:none;">
-<img src="https://asa-ct.github.io/miniconf2023/docs/1)-pinkmap.PNG"  width=540 height=560><p><i>Click on the map to enlarge it.</i></p>
-</a>
-</td>
-<td>
-<img src="https://asa-ct.github.io/miniconf2023/docs/2)-NorthGate.PNG" width=500 height=300>
-<p><i>If you are planning to use a GPS app, the address is 445 Eastern Point RD Groton.</i> 8WPF+Q9 Groton</p>  
-<p><i>If you use a GPS app, please check its directions against these directions before starting, because sometimes GPS will misdirect people when trying to get them to Pfizer's Groton site.</i></p>
-</td>
-</tr>
-</table>
+
 
