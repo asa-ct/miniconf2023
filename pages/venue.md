@@ -25,13 +25,13 @@ After the left turn onto Eastern Point Road, the next traffic light will be Pfiz
 
 <table>
 <tr>
-<td width="55%" style="vertical-align: middle;">
+<td width="55%" style="vertical-align: top;" halign="center">
 <a href="https://asa-ct.github.io/miniconf2023/docs/1)-pinkmap.PNG" target="_blank" style="text-decoration:none;">
-<img src="https://asa-ct.github.io/miniconf2023/docs/1)-pinkmap.PNG"  width=540 height=560><p><i>Click on the map for a larger version.</i></p>
+<img src="https://asa-ct.github.io/miniconf2023/docs/1)-pinkmap.PNG"  width=440 height=460><p><i>Click on the map for a larger version.</i></p>
 </a>
 </td>
-<td  style="vertical-align: middle;">
-<img src="https://asa-ct.github.io/miniconf2023/docs/2)-NorthGate.PNG" width=500 height=300>
+<td  style="vertical-align: top;" halign="center">
+<img src="https://asa-ct.github.io/miniconf2023/docs/2)-NorthGate.PNG" width=300 height=200>
 <p><i>If you are planning to use a GPS app, the address is:<br>445 Eastern Point RD Groton.</i> 8WPF+Q9</p>  
 <p><i>If you use a GPS app, please check its directions against these directions before starting, because sometimes GPS will misdirect people when trying to get them to Pfizer's Groton site.</i></p>
 </td>
