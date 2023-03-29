@@ -137,7 +137,7 @@ Diseases such as COVID-19 are highly complex in patients’ clinical manifestati
 
 <div id="speaker7" style="display: flex; flex-direction: column;">
 
-<h3>Meta-regression case studies in infectious disease epidemiology</h3>
+<h3>Meta-regression Case Studies in Infectious Disease Epidemiology</h3>
 
 <h4>Joshua L. Warren</h4>
 
