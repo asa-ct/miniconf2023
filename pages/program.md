@@ -11,7 +11,7 @@ All times are in EDT.
 
 + 9:00 am -- 10:00 am: Refreshment
 
-+ 9:15 am -- 9:30 am: Opening Remarks: Mary Zhao (ASA CT President)
++ 9:15 am -- 9:30 am: Opening Remarks: David Gruben (Pfizer, Local Host), Mary Zhao (ASA CT President)
 
 + 9:30 am -- 12:20 pm: Scientific Session I
   - 9:30 am -- 10:10 am: <a href="../speakers/#speaker1">Sreeram (Ram) Ramagopalan</a>
@@ -28,6 +28,8 @@ All times are in EDT.
   - 2:50 pm -- 3:00 pm: Break
   - 3:00 pm -- 3:40 pm: <a href="../speakers/#speaker7">Joshua L. Warren</a>
 
-+ 3:40 pm -- 4:15 pm: Discussion
++ 3:40 pm -- 4:00 pm: Discussion
 
-+ 4:15 pm -- 4:30 pm: Closing Remarks
++ 4:00 pm -- 4:15 pm: ASA CT Outreach Program (Sabrina Vogel Marler)
+
++ 4:15 pm -- 4:30 pm: Closing Remarks (Kun Chen)
