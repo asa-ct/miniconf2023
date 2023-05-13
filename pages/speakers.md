@@ -7,7 +7,10 @@ permalink: /speakers/
 
 <div id="speaker1" style="display: flex; flex-direction: column;">
 
-<h3>The Use of Real-World Evidence (RWE) in Health Technology Assessment (HTA) -- Opportunities and Challenges</h3>
+<h3>The Use of Real-World Evidence (RWE) in Health Technology Assessment (HTA) -- Opportunities and Challenges; 
+[<a href="../docs/slides/AM1-SreeramRamagopalan.pdf">Slides</a>], 
+[<a href="https://youtu.be/EFsl0mUbPIc" target="_blank">Recording</a>]
+</h3>
 
 <h4>Sreeram (Ram) Ramagopalan </h4>
 
@@ -28,7 +31,10 @@ Health Technology Assessment (HTA) is used as a tool to support evidence-based d
 
 <div id="speaker2" style="display: flex; flex-direction: column;">
 
-<h3>Introduction to Real-World Evidence and Artificial Intelligence in Healthcare and Drug Development</h3>
+<h3>Introduction to Real-World Evidence and Artificial Intelligence in Healthcare and Drug Development; 
+[<a href="../docs/slides/AM2-YahuiTian.pdf">Slides</a>], 
+[<a href="https://youtu.be/-5Qz8XppdnI" target="_blank">Recording</a>]
+</h3>
 
 <h4>Yahui Tian</h4>
 
@@ -50,7 +56,10 @@ There has been an increasing interest in using real-world evidence (RWE) to supp
 
 <div id="speaker3" style="display: flex; flex-direction: column;">
 
-<h3>Enriching Real-World Data Based Study by Conducting Linkage among Multiple Data Sources</h3>
+<h3>Enriching Real-World Data Based Study by Conducting Linkage among Multiple Data Sources; 
+[<a href="../docs/slides/AM3-TianyuSun.pdf">Slides</a>], 
+[<a href="https://youtu.be/WVOJNiGtV1M" target="_blank">Recording</a>]
+</h3>
 
 <h4>Tianyu Sun</h4>
 
@@ -74,7 +83,10 @@ The real-world data (RWD), such as claims and electronic health records (EHRs), 
 
 <div id="speaker4" style="display: flex; flex-direction: column;">
 
-<h3>Improving Prediction of Adolescent Suicide Attempts with Electronic Health Records by Leveraging External Data Sources</h3>
+<h3>Improving Prediction of Adolescent Suicide Attempts with Electronic Health Records by Leveraging External Data Sources; 
+[<a href="../docs/slides/AM4-ShaneSacco.pdf">Slides</a>], 
+[<a href="https://youtu.be/CAwX3cA3zkg" target="_blank">Recording</a>]
+</h3>
 
 <h4>Shane Sacco</h4>
 
@@ -97,7 +109,10 @@ Suicide among adolescents and young adults has risen in the US over the last dec
 
 <div id="speaker5" style="display: flex; flex-direction: column;">
 
-<h3>Indirect Treatment Comparisons: When Are They Needed and How Do They Work?</h3>
+<h3>Indirect Treatment Comparisons: When Are They Needed and How Do They Work? 
+[<a href="../docs/slides/PM1-HaitaoChu.pdf">Slides</a>], 
+[<a href="https://youtu.be/y1EzinNn8CY" target="_blank">Recording</a>]
+</h3>
 
 <h4>Haitao Chu</h4>
 
@@ -117,7 +132,10 @@ In many markets, gaining approval by national reimbursement, pricing, or health 
 
 <div id="speaker6" style="display: flex; flex-direction: column;">
 
-<h3>Disentangling the Clinical Complexity of Heterogeneous Diseases through Subphenotyping on Large Scale Electronic Health Records with Machine Learning </h3>
+<h3>Disentangling the Clinical Complexity of Heterogeneous Diseases through Subphenotyping on Large Scale Electronic Health Records with Machine Learning; 
+[<a href="../docs/slides/PM2-FeiWang.pdf">Slides</a>], 
+[<a href="https://youtu.be/FkospzWfCrs" target="_blank">Recording</a>]
+</h3>
 
 <h4>Fei Wang</h4>
 
@@ -137,7 +155,10 @@ Diseases such as COVID-19 are highly complex in patients’ clinical manifestati
 
 <div id="speaker7" style="display: flex; flex-direction: column;">
 
-<h3>Meta-regression Case Studies in Infectious Disease Epidemiology</h3>
+<h3>Meta-regression Case Studies in Infectious Disease Epidemiology; 
+[<a href="../docs/slides/PM3-JoshuaWarren.pdf">Slides</a>], 
+[<a href="https://youtu.be/4k1Aw3ApRNU" target="_blank">Recording</a>]
+</h3>
 
 <h4>Joshua L. Warren</h4>
 

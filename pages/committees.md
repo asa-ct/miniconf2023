@@ -24,7 +24,7 @@ permalink: /committees/
 #### Website 
 + [Kun Chen](https://kun-chen.uconn.edu), University of Connecticut
 + [David Gruben](https://www.linkedin.com/in/david-gruben-b622374/), Pfizer
-+ [Yelie Yuan](https://yelie-yuan.netlify.app), University of Connecticut
++ [Yelie Yuan](https://yelieyuan.com/), University of Connecticut
 
 
 
