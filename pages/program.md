@@ -5,7 +5,8 @@ header: no
 permalink: /program/
 ---
 
-All times are in EDT.
+All times are in EDT. 
+<a href="https://youtube.com/playlist?list=PLbEvoL92vpoozbFp_x1c5uBBS9TSr7oQb" target="_blank">Recordings</a> are available.
 
 + 9:00 am -- 10:00 am: Registration
 
